@@ -66,28 +66,11 @@ The dataset contains information about customers, their subscriptions, and churn
 3. **Time-Series Analysis**:
    - Analyze customer behavior over time for dynamic churn prediction.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/customer-churn-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd customer-churn-analysis
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the analysis:
-   ```bash
-   python churn_analysis.py
-   ```
+
 
 ## Author
 **Parth Chaudhari**  
 This project was developed as part of an initiative to understand and mitigate customer churn using machine learning techniques.
 
-## License
-This project is licensed under the MIT License.
+
 
